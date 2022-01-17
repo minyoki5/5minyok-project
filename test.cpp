@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-
+//인섭이가 알려준 방법~~~~
 using namespace std;
 
 int main()
